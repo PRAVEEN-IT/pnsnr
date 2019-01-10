@@ -7,27 +7,24 @@
   ],
   "pensioner": [
     {
-      "id": 1,
-      "PensionerID": 194389, 
-      "Name": "Swamy B", 
-      "FatherName": "Rama B", 
-      "MobileNum": "9135453533", 
+      "pensionerId": 194389, 
+      "name": "Swamy B", 
+      "fathername": "Rama B", 
+      "mobileNumber": "9135453533", 
       "email": "t1.aptransco@email.com" 
     },
     {
-      "id": 2,
-      "PensionerID": 183246, 
-      "Name": "Rahul D", 
-      "FatherName": "Murthy D", 
-      "MobileNum": "6312372314", 
+      "pensionerId": 183246, 
+      "name": "Rahul D", 
+      "fathername": "Murthy D", 
+      "mobileNumber": "6312372314", 
       "email": "db1.aptransco@email.com" 
     },
     {
-      "id": 3,
-      "PensionerID": 142825, 
-      "Name": "Durga", 
-      "FatherName": "Shankar K", 
-      "MobileNum": "8986781256", 
+      "pensionerId": 142825, 
+      "name": "Durga", 
+      "fathername": "Shankar K", 
+      "mobileNumber": "8986781256", 
       "email": "ar2.aptransco@email.com" 
     }
   ]
