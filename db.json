@@ -1,4 +1,10 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "JSON test"
+    }
+  ],
   "pensioner": [
     {
       "id": 1,
