@@ -1,1 +1,1 @@
-# pnsnr
+# pinfo
