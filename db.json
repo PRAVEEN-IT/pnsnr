@@ -10,7 +10,7 @@
   
   "p2": {"id": 2, "status":"success","pensionerDetails":{"pensionerType":"Superannuation Pensioner","country":"IN","pincode":"524004"},"earninfo":{"basicPay":"1258.00", "basicPay3":"1258.00", "basicPay4":"1258.00"},"dedninfo":{ "lic":"2528.00", "gpf":"524.00","tx":"1235.00", "otherdedn":"258.00","emy4":"1598.00"},"pdUnitId":"5107","prgId":"32423"},
 
-"p3": {"id": 3, "status":"success","pdUnitId":"5107","pensionerDetails":{"pensionerType":"Superannuation Pensioner","country":"IN","pincode":"524004"},"earninfo":{"basicPay":"1258.00", "basicPay3":"1258.00",  "tpa":"1258.00","medi py":"2528.00", "corp":"524.00", "basicPay4":"1258.00"},"dedninfo":{ "tx":"1235.00", "other dedn":"258.00","emy4":"1598.00"},"prgId":"34442423"},
+"p3": {"id": 3, "status":"success","pdUnitId":"5107","pensionerDetails":{"pensionerType":"Superannuation Pensioner","country":"IN","pincode":"524004"},"earninfo":{"basicPay":"1258.00", "basicPay3":"1258.00",  "tpa":"1258.00","medi py":"2528.00", "corp":"524.00", "basicPay4":"1258.00"},"dedninfo":{ "tx":"1235.00", "otherdedn":"258.00","emy4":"1598.00"},"prgId":"34442423"},
 
   
   "pensioner": [
